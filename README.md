@@ -1,6 +1,6 @@
 # UCI-AirQuality
 
-Analyse the Air Quality Dataset of the UCI with multiple techniques. 
+Analyse the Air Quality Dataset of the UCI with multiple techniques.  
 http://archive.ics.uci.edu/ml/datasets/Air+Quality
 
 ## Objetive
